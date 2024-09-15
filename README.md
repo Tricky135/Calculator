@@ -1,5 +1,5 @@
 # Calculator
-A python based simple Calculator.
+A simple Python calculator using Tkinter for a clean, responsive GUI and basic operations.
 
 (i). Abstract :- The project created a calculator application using Tkinter, offering a straightforward interface for performing basic arithmetic operations. The design includes a grid layout with buttons for digits, operators, parentheses, and essential functions like evaluation and clearing. The application features robust error handling to manage invalid inputs and computation errors. By focusing on a clean and responsive design, the calculator ensures a seamless and user-friendly experience for performing calculations.
 
